@@ -21,6 +21,6 @@ Berdasarkan eksperimen, diperoleh bahwa metode:
 
 ---
 
-## 💾 Model Terlatih
+## Model Terlatih
 Model terlatih dalam format `.pkl` dapat diakses melalui tautan berikut:  
-👉 [Download Model Classifier Chain (20% fitur)](link_ke_file_model)  
+👉 [Download Model Classifier Chain (20% fitur)](https://drive.google.com/file/d/1twe1j8q1ejPDhvMuNEi_tyVYGhG6iCmd/view?usp=sharing)  
