@@ -1,12 +1,12 @@
-# 🚀 Tugas Akhir
+# Tugas Akhir
 **Nama** : Muhardi  
 **Judul** : *Klasifikasi Bahaya Senyawa berdasarkan Notasi SMILES menggunakan Algoritma Random Forest dengan Pendekatan Problem Transformation*  
 
 ---
 
-## 📌 Deskripsi
+## Deskripsi
 Repository ini berisi *source code* dan dataset yang digunakan untuk penelitian Tugas Akhir.  
-Penelitian ini berfokus pada **klasifikasi bahaya senyawa kimia** berdasarkan **notasi SMILES** dengan menggunakan algoritma **Random Forest** serta pendekatan *Problem Transformation*.  
+Penelitian ini berfokus pada **klasifikasi bahaya senyawa ** berdasarkan **notasi SMILES** dengan menggunakan algoritma **Random Forest** serta pendekatan *Problem Transformation*.  
 
 Pendekatan *Problem Transformation* yang dibandingkan meliputi:  
 - **Binary Relevance (BR)**  
@@ -15,7 +15,7 @@ Pendekatan *Problem Transformation* yang dibandingkan meliputi:
 
 ---
 
-## 📊 Hasil Penelitian
+## Hasil Penelitian
 Berdasarkan eksperimen, diperoleh bahwa metode:  
 - **Classifier Chain dengan 20% fitur** memberikan performa terbaik dibandingkan pendekatan lainnya.  
 
